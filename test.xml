@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfThreadInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ThreadInfo>
+    <threadId>1</threadId>
+    <time>0</time>
+    <methods>
+      <MethodInfo>
+        <name>meth1</name>
+        <time>0</time>
+        <methods />
+      </MethodInfo>
+    </methods>
+  </ThreadInfo>
+  <ThreadInfo>
+    <threadId>2</threadId>
+    <time>0</time>
+    <methods />
+  </ThreadInfo>
+</ArrayOfThreadInfo>
